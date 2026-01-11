@@ -181,6 +181,15 @@ pytest tests/
 4. **Stay Focused**: Check "Always on top" to keep the window visible
 5. **Get Notified**: Receive notifications every hour and when rest ends
 
+## ⚠️ Note for Windows Users
+
+When launching the app, you may see a "Windows protected your PC" warning. This is because the application is not digitally signed.
+
+To run it:
+
+1. Click **"More info"**
+2. Click **"Run anyway"**
+
 ## 🤝 Contributing
 
 Contributions are welcome! Please feel free to submit a Pull Request.
