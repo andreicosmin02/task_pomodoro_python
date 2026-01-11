@@ -1,0 +1,5 @@
+# Core dependencies
+# Tkinter is included with Python standard library
+
+# Optional: For better Windows notifications
+# win10toast>=0.9; platform_system == "Windows"
